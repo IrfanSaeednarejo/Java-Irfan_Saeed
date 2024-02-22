@@ -49,5 +49,3 @@ class GFG {
 	}
 }
 
-// This code is contributed
-// by Nikita Tiwari.
